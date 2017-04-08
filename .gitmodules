@@ -1,0 +1,3 @@
+[submodule "pyparser"]
+	path = pyparser
+	url = https://github.com/josecanciani/pyparser.git
