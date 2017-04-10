@@ -1,0 +1,48 @@
+[
+    {
+        "caption": "Preferences: PyParser Settings – Default",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/sublimepyparser/sublimepyparser.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: PyParser Settings – User",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/sublimepyparser.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: PyParser Key Bindings – Default",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/sublimepyparser/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: PyParser Key Bindings – Default",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/sublimepyparser/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: PyParser Key Bindings – User",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: PyParser Key Bindings – User",
+        "command": "open_file", "args":
+        {
+            "file": "${packages}/User/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    }
+]

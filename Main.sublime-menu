@@ -1,0 +1,17 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "id": "sublimepyparser",
+                "caption": "SublimePyParser",
+                "children":
+                [
+                    { "caption": "View class tree", "command": "sublimepyparser_tree" }
+                ]
+            }
+        ]
+
+    }
+]
