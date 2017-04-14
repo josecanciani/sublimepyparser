@@ -2,5 +2,9 @@
     "autoComplete": {
         "php": true,
         "js": true
+    },
+    "tree": {
+        "childLimit": 10,
+        "processParents": false
     }
 }
