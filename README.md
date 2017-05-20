@@ -44,3 +44,8 @@ ParentClassG
     SimpleClass2
     ZSimpleClass
 </pre>
+
+# Development roadmap
+
+* Autocomplete class methods
+* Autocomplete class constants
